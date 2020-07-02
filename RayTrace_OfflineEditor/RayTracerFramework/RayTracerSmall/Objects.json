@@ -1,0 +1,50 @@
+{
+  "Spheres": [
+    {
+        "Center": [ 0.0, -10004.0, -20.0 ],
+        "Radius": 10000,
+        "Radius2": 10000,
+        "SurfaceColor": [ 0.20, 0.20, 0.20 ],
+        "EmissionColor": [ 0.0, 0.0, 0.0 ],
+        "Transparency": 0.0,
+        "Reflection": 0.0,
+        "RadiusIncrement": 0.0,
+        "Velocity": [ 0.0, 0.0, 0.0 ]
+
+    },
+    {
+        "Center": [ 0.0, 0.0, -20.0 ],
+        "Radius": 0.0,
+        "Radius2": 0.0,
+        "SurfaceColor": [ 1.00, 0.32, 0.36 ],
+        "EmissionColor": [ 0.0, 0.0, 0.0 ],
+        "Transparency": 1.0,
+        "Reflection": 0.5,
+        "RadiusIncrement": 0.01,
+        "Velocity": [ 0.0, 0.0, 0.0 ]
+    },
+    {
+        "Center": [ 5.0, -1.0, -15.0 ],
+        "Radius": 2.0,
+        "Radius2": 2.0,
+        "SurfaceColor": [ 0.90, 0.76, 0.46 ],
+        "EmissionColor": [ 0.0, 0.0, 0.0 ],
+        "Transparency": 1.0,
+        "Reflection": 0.0,
+        "RadiusIncrement": 0.0,
+        "Velocity": [ 0.02, 0.0, 0.0 ]
+    },
+    {
+        "Center": [ 5.0, 0.0, -25.0 ],
+        "Radius": 3.0,
+        "Radius2": 3.0,
+        "SurfaceColor": [ 0.65, 0.77, 0.97 ],
+        "EmissionColor": [ 0.0, 0.0, 0.0 ],
+        "Transparency": 1.0,
+        "Reflection": 0.0,
+        "RadiusIncrement": 0.0,
+        "Velocity": [ 0.0, 0.04, 0.0 ]
+    }
+  ]
+}  
+    

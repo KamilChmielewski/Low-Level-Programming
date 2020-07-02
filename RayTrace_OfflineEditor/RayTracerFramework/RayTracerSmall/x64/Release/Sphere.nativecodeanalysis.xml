@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DEFECTS>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\c015289g\Desktop\Temp\Temp\RayTracerFramework2TaskStealing\RayTracerFramework2MultiThreading\RayTracerFramework2\RayTracerFramework2\RayTracerFramework\RayTracerSmall\</FILEPATH>
+      <FILENAME>Struct.h</FILENAME>
+      <LINE>14</LINE>
+      <COLUMN>6</COLUMN>
+    </SFA>
+    <DEFECTCODE>28251</DEFECTCODE>
+    <DESCRIPTION>Inconsistent annotation for 'new': this instance has no annotations. See c:\users\c015289g\desktop\temp\temp\raytracerframework2taskstealing\raytracerframework2multithreading\raytracerframework2\raytracerframework2\raytracerframework\raytracersmall\predefined c++ types (compiler internal)(33). The first user-provided annotation on this built-in function is at line c:\program files (x86)\microsoft visual studio\2019\professional\vc\tools\msvc\14.23.28105\include\vcruntime_new.h(49). </DESCRIPTION>
+    <FUNCTION>new</FUNCTION>
+    <DECORATED>??2@YAPEAX_K@Z</DECORATED>
+    <FUNCLINE>14</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\c015289g\Desktop\Temp\Temp\RayTracerFramework2TaskStealing\RayTracerFramework2MultiThreading\RayTracerFramework2\RayTracerFramework2\RayTracerFramework\RayTracerSmall\</FILEPATH>
+      <FILENAME>Sphere.cpp</FILENAME>
+      <LINE>6</LINE>
+      <COLUMN>8</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'Sphere::radiusIncrement' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>Sphere::{ctor}</FUNCTION>
+    <DECORATED>??0Sphere@@QEAA@AEBV?$Vec3@M@@AEBM0110@Z</DECORATED>
+    <FUNCLINE>6</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>Sphere::radiusIncrement</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT>
+</DEFECTS>

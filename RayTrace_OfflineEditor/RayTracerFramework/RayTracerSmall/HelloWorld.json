@@ -1,0 +1,15 @@
+{
+    "Spheres": [
+    {
+	"Center": [ 0, 0, 0 ],
+	"Radius": 0,
+	"Radius2": 0,
+	"SurfaceColor": [ 0, 0, 0 ],
+	"EmissionColor": [ 0, 0, 0 ],
+	"Transparency": 0,
+	"Reflection": 0,
+	"RadiusIncrement": 0,
+	"Velocity": [ 0, 0, 0 ]
+    }
+  ]
+}

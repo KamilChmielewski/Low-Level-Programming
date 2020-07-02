@@ -1,0 +1,9 @@
+C:\Users\c015289g\Desktop\RayTrace_OfflineEditor\OfflineEditor\OfflineEditor\bin\Debug\OfflineEditor.exe.config
+C:\Users\c015289g\Desktop\RayTrace_OfflineEditor\OfflineEditor\OfflineEditor\bin\Debug\OfflineEditor.exe
+C:\Users\c015289g\Desktop\RayTrace_OfflineEditor\OfflineEditor\OfflineEditor\bin\Debug\OfflineEditor.pdb
+C:\Users\c015289g\Desktop\RayTrace_OfflineEditor\OfflineEditor\OfflineEditor\obj\Debug\OfflineEditor.csprojAssemblyReference.cache
+C:\Users\c015289g\Desktop\RayTrace_OfflineEditor\OfflineEditor\OfflineEditor\obj\Debug\OfflineEditor.Form1.resources
+C:\Users\c015289g\Desktop\RayTrace_OfflineEditor\OfflineEditor\OfflineEditor\obj\Debug\OfflineEditor.Properties.Resources.resources
+C:\Users\c015289g\Desktop\RayTrace_OfflineEditor\OfflineEditor\OfflineEditor\obj\Debug\OfflineEditor.csproj.GenerateResource.cache
+C:\Users\c015289g\Desktop\RayTrace_OfflineEditor\OfflineEditor\OfflineEditor\obj\Debug\OfflineEditor.exe
+C:\Users\c015289g\Desktop\RayTrace_OfflineEditor\OfflineEditor\OfflineEditor\obj\Debug\OfflineEditor.pdb

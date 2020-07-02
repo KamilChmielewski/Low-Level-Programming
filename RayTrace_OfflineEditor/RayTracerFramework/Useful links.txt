@@ -1,0 +1,4 @@
+https://embeddedartistry.com/blog/2017/02/08/implementing-an-asynchronous-dispatch-queue/
+https://stackoverflow.com/questions/48042525/thread-pool-on-a-queue-in-c
+https://juanchopanzacpp.wordpress.com/2013/02/26/concurrent-queue-c11/
+https://github.com/GamesB2/RayTracerOptimising/tree/master/RayTracerSmall
